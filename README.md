@@ -52,3 +52,5 @@ Move cursor to specific position and press enter to set position of cursor.
 Enter time delay to act this command.
 #### Step Six:
 Press 'Y' to create next step or 'N' to create your \*.ini file.
+
+Sorry if my English is not good.
