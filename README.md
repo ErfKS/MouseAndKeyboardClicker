@@ -3,11 +3,9 @@
 This program can use command line or \*.ini file to create timed commands for virtual input actions.
 
 ### This program include three mode:
-<ol>
-  <li>Simple Mode</li>
-  <li>Command_INI</li>
-  <li>INI_Creator</li>
-</ol>
+1:Simple Mode<br>
+2:Command_INI<br>
+3:INI_Creator<br>
 
 #
 ### Simple Mode:
@@ -38,6 +36,7 @@ Enter can looping value (True/False) Or (1/0)
 Enter date and time to start recorded commands. (n = now)
 #### Step Three:
 Enter number of command type:
+
 0: Right click <br>
 1: Double Left Click <br>
 2: Right Double Click <br>
@@ -46,6 +45,7 @@ Enter number of command type:
 5: Left Click <br>
 6: Mouse Position <br>
 7: Paragraph Type <br>
+
 #### Step Four:
 Move cursor to specific position and press enter to set position of cursor.
 #### Step Five:
