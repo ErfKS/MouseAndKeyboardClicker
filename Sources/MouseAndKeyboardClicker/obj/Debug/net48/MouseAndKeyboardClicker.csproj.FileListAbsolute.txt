@@ -1,0 +1,11 @@
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Debug\net48\MouseAndKeyboardClicker.pdb
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Debug\net48\WindowsInput.dll
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Debug\net48\MouseAndKeyboardClicker.csproj.AssemblyReference.cache
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Debug\net48\MouseAndKeyboardClicker.AssemblyInfoInputs.cache
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Debug\net48\MouseAndKeyboardClicker.AssemblyInfo.cs
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Debug\net48\MouseAndKeyboardClicker.csproj.CoreCompileInputs.cache
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Debug\net48\MouseAndKeyboardClicker.csproj.CopyComplete
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Debug\net48\MouseAndKeyboardClicker.pdb
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Debug\net48\MouseAndKeyboardClicker.exe.config
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Debug\net48\MouseAndKeyboardClicker.exe
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Debug\net48\MouseAndKeyboardClicker.exe
