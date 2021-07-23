@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <LangVersion>7.3</LangVersion>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net47</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="InputSimulator" Version="1.0.4" />
+    </ItemGroup>
+
+    <PropertyGroup>
+        <ApplicationIcon>Keyboard and Mouse Settings.ico</ApplicationIcon>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Content Include="Keyboard and Mouse Settings.ico" />
+    </ItemGroup>
+
+</Project>
