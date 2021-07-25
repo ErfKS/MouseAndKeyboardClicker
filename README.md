@@ -52,5 +52,25 @@ Move cursor to specific position and press enter to set position of cursor.
 Enter time delay to act this command.
 #### Step Six:
 Press 'Y' to create next step or 'N' to create your \*.ini file.
+#
+### Example
+This is \*.ini example:
+[Main] <br>
+Year = n <br>
+Month = n <br>
+Day = n <br>
+Hour = 14 <br>
+Minute = 30 <br>
+Second = 0 <br>
+canLoop = False //False:This file can't run again        True:This file can run again <br>
+Capacity = 1 //Number of 'Step' sections <br>
 
+[Step0] <br>
+Type = 5 //This is type of command (read step three) <br>
+PosX = 228 //This is position of cursor in x-axis <br>
+PosY = 483 //This is position of cursor in y-axis <br>
+Delay = 1000 //Delay to run this 'Step' section<br>
+paragraphType =  //To type a text (If 'Type' key is not equal to 7 value, this value 'paragraphType' is not working)<br>
+
+#
 Sorry if my English is not good.
