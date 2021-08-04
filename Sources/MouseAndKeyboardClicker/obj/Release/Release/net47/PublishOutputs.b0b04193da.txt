@@ -1,4 +1,0 @@
-C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Release\net47\publish\MouseAndKeyboardClicker.exe
-C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Release\net47\publish\MouseAndKeyboardClicker.exe.config
-C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Release\net47\publish\MouseAndKeyboardClicker.pdb
-C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Release\net47\publish\WindowsInput.dll
