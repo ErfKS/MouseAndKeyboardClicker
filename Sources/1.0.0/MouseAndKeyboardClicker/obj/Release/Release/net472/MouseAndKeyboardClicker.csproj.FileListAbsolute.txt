@@ -1,0 +1,10 @@
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Release\net472\MouseAndKeyboardClicker.csproj.AssemblyReference.cache
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Release\net472\MouseAndKeyboardClicker.AssemblyInfoInputs.cache
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Release\net472\MouseAndKeyboardClicker.AssemblyInfo.cs
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Release\net472\MouseAndKeyboardClicker.csproj.CoreCompileInputs.cache
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Release\net472\MouseAndKeyboardClicker.dll
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Release\net472\MouseAndKeyboardClicker.pdb
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Release\net472\WindowsInput.dll
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Release\net472\MouseAndKeyboardClicker.csproj.CopyComplete
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Release\net472\MouseAndKeyboardClicker.dll
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Release\net472\MouseAndKeyboardClicker.pdb

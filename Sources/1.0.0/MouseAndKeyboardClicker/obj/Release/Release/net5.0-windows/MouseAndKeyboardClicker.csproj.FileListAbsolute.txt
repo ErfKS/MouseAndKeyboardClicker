@@ -1,0 +1,12 @@
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Release\net5.0-windows\MouseAndKeyboardClicker.deps.json
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Release\net5.0-windows\MouseAndKeyboardClicker.dll
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Release\net5.0-windows\ref\MouseAndKeyboardClicker.dll
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Release\net5.0-windows\MouseAndKeyboardClicker.pdb
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Release\net5.0-windows\MouseAndKeyboardClicker.csproj.AssemblyReference.cache
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Release\net5.0-windows\MouseAndKeyboardClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Release\net5.0-windows\MouseAndKeyboardClicker.AssemblyInfoInputs.cache
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Release\net5.0-windows\MouseAndKeyboardClicker.AssemblyInfo.cs
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Release\net5.0-windows\MouseAndKeyboardClicker.csproj.CoreCompileInputs.cache
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Release\net5.0-windows\MouseAndKeyboardClicker.dll
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Release\net5.0-windows\ref\MouseAndKeyboardClicker.dll
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Release\net5.0-windows\MouseAndKeyboardClicker.pdb
