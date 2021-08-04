@@ -24,9 +24,9 @@ namespace AutoClickerMouseAndKeyboard
                         returnInt = int.Parse(Console.ReadLine());
                         break;
                     }
-                    catch (Exception e)
+                    catch
                     {
-                        Console.WriteLine(e);
+                        Console.WriteLine("This is incorrect!");
                     }
                 }
                 

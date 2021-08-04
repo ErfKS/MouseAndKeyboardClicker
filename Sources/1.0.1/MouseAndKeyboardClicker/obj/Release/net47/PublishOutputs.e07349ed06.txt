@@ -1,0 +1,4 @@
+C:\Users\E.K.S\Documents\GitHub\MouseAndKeyboardClicker\App\1.0.1\MouseAndKeyboardClicker.exe
+C:\Users\E.K.S\Documents\GitHub\MouseAndKeyboardClicker\App\1.0.1\MouseAndKeyboardClicker.exe.config
+C:\Users\E.K.S\Documents\GitHub\MouseAndKeyboardClicker\App\1.0.1\MouseAndKeyboardClicker.pdb
+C:\Users\E.K.S\Documents\GitHub\MouseAndKeyboardClicker\App\1.0.1\WindowsInput.dll

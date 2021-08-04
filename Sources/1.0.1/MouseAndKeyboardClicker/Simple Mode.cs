@@ -102,9 +102,9 @@ namespace AutoClickerMouseAndKeyboard
 					case ConsoleKey.L:
 						Console.WriteLine();
 						currentPoint = VirtualMouse.GetCursorPosition();
-						Console.WriteLine("Left Click in Pos ({0}) Is Recorded!\nEnter Delay(MilliSeconds)...",
+						Console.WriteLine("Left Click in Pos ({0}) Is Recorded!",
 							currentPoint.X.ToString() + "," + currentPoint.Y);
-						int TimeDelayLClick = int.Parse(Console.ReadLine());
+						int TimeDelayLClick = INI_Creator.ForCleanInputInt.GetValue("Enter Delay(MilliSeconds)...");
 						ListClicks.Add(new OneCommand(currentPoint, ListCommandTypes.LeftClickDown, TimeDelayLClick,
 							string.Empty));
 						//ListClicks.Add (new OneClick (currentPoint , ListClickTypes.LeftClickUp , TimeDelayLClick));
@@ -113,36 +113,36 @@ namespace AutoClickerMouseAndKeyboard
 					case ConsoleKey.R:
 						Console.WriteLine();
 						currentPoint = VirtualMouse.GetCursorPosition();
-						Console.WriteLine("Right Click in Pos ({0}) Is Recorded!\nEnter Delay(MilliSeconds)...",
+						Console.WriteLine("Right Click in Pos ({0}) Is Recorded!",
 							currentPoint.X.ToString() + "," + currentPoint.Y);
-						int timeDelayRClick = int.Parse(Console.ReadLine());
+						int timeDelayRClick = INI_Creator.ForCleanInputInt.GetValue("Enter Delay(MilliSeconds)...");
 						ListClicks.Add(new OneCommand(currentPoint, ListCommandTypes.Rightclick, timeDelayRClick,
 							string.Empty));
 						break;
 					case ConsoleKey.K:
 						Console.WriteLine();
 						currentPoint = VirtualMouse.GetCursorPosition();
-						Console.WriteLine("Double Left Click in Pos ({0}) Is Recorded!\nEnter Delay(MilliSeconds)...",
+						Console.WriteLine("Double Left Click in Pos ({0}) Is Recorded!",
 							currentPoint.X.ToString() + "," + currentPoint.Y);
-						int timeDelayDlClick = int.Parse(Console.ReadLine());
+						int timeDelayDlClick = INI_Creator.ForCleanInputInt.GetValue("Enter Delay(MilliSeconds)...");
 						ListClicks.Add(new OneCommand(currentPoint, ListCommandTypes.DoubleLeftClick, timeDelayDlClick,
 							string.Empty));
 						break;
 					case ConsoleKey.F:
 						Console.WriteLine();
 						currentPoint = VirtualMouse.GetCursorPosition();
-						Console.WriteLine("Double Right Click in Pos ({0}) Is Recorded!\nEnter Delay(MilliSeconds)...",
+						Console.WriteLine("Double Right Click in Pos ({0}) Is Recorded!",
 							currentPoint.X.ToString() + "," + currentPoint.Y);
-						int timeDelayDrClick = int.Parse(Console.ReadLine());
+						int timeDelayDrClick = INI_Creator.ForCleanInputInt.GetValue("Enter Delay(MilliSeconds)...");
 						ListClicks.Add(new OneCommand(currentPoint, ListCommandTypes.RightDoubleClick, timeDelayDrClick,
 							string.Empty));
 						break;
 					case ConsoleKey.P:
 						Console.WriteLine();
 						currentPoint = VirtualMouse.GetCursorPosition();
-						Console.WriteLine("SetCursorPosition in Pos ({0}) Is Recorded!\nEnter Delay(MilliSeconds)...",
+						Console.WriteLine("SetCursorPosition in Pos ({0}) Is Recorded!",
 							currentPoint.X.ToString() + "," + currentPoint.Y);
-						int timeDelayPClick = int.Parse(Console.ReadLine());
+						int timeDelayPClick = INI_Creator.ForCleanInputInt.GetValue("Enter Delay(MilliSeconds)...");
 						ListClicks.Add(new OneCommand(currentPoint, ListCommandTypes.MousePosition, timeDelayPClick,
 							string.Empty));
 						break;
@@ -153,8 +153,8 @@ namespace AutoClickerMouseAndKeyboard
 						Console.WriteLine();
 						Console.WriteLine("Enter Text");
 						string text = Console.ReadLine();
-						Console.WriteLine("Paragraph Type Is Recorded!\nEnter Delay(MilliSeconds)...");
-						int timeDelayTClick = int.Parse(Console.ReadLine());
+						Console.WriteLine("Paragraph Type Is Recorded!");
+						int timeDelayTClick = INI_Creator.ForCleanInputInt.GetValue("Enter Delay(MilliSeconds)...");
 						ListClicks.Add(new OneCommand(currentPoint, ListCommandTypes.ParagraphType, timeDelayTClick,
 							text));
 						break;

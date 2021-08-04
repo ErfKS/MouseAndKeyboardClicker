@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PG/XARxsWbWqBgplkLX7/3LmR1knf+8pJeK+l5EnLuvJGC0sd1JWl5p+IRc4M8pqk8hp+ZaRQgamjkXeZIzBhw==",
+  "dgSpecHash": "Kf73C+e36cl9xXBVb3wPK3tmFG9lN5N4RVpJh+ZzNF5RHh5cF1qC9R9hNy/g9ClDNLKQoCZrSUHjS8HJbAjonA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\E.K.S\\RiderProjects\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker.csproj",
+  "projectFilePath": "C:\\Users\\E.K.S\\Documents\\GitHub\\MouseAndKeyboardClicker\\Sources\\1.0.1\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\E.K.S\\.nuget\\packages\\inputsimulator\\1.0.4\\inputsimulator.1.0.4.nupkg.sha512"
   ],

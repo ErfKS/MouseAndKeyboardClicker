@@ -1,0 +1,11 @@
+C:\Users\E.K.S\Documents\GitHub\MouseAndKeyboardClicker\Sources\1.0.1\MouseAndKeyboardClicker\bin\Release\net47\MouseAndKeyboardClicker.exe.config
+C:\Users\E.K.S\Documents\GitHub\MouseAndKeyboardClicker\Sources\1.0.1\MouseAndKeyboardClicker\bin\Release\net47\MouseAndKeyboardClicker.exe
+C:\Users\E.K.S\Documents\GitHub\MouseAndKeyboardClicker\Sources\1.0.1\MouseAndKeyboardClicker\bin\Release\net47\MouseAndKeyboardClicker.pdb
+C:\Users\E.K.S\Documents\GitHub\MouseAndKeyboardClicker\Sources\1.0.1\MouseAndKeyboardClicker\bin\Release\net47\WindowsInput.dll
+C:\Users\E.K.S\Documents\GitHub\MouseAndKeyboardClicker\Sources\1.0.1\MouseAndKeyboardClicker\obj\Release\net47\MouseAndKeyboardClicker.csproj.AssemblyReference.cache
+C:\Users\E.K.S\Documents\GitHub\MouseAndKeyboardClicker\Sources\1.0.1\MouseAndKeyboardClicker\obj\Release\net47\MouseAndKeyboardClicker.AssemblyInfoInputs.cache
+C:\Users\E.K.S\Documents\GitHub\MouseAndKeyboardClicker\Sources\1.0.1\MouseAndKeyboardClicker\obj\Release\net47\MouseAndKeyboardClicker.AssemblyInfo.cs
+C:\Users\E.K.S\Documents\GitHub\MouseAndKeyboardClicker\Sources\1.0.1\MouseAndKeyboardClicker\obj\Release\net47\MouseAndKeyboardClicker.csproj.CoreCompileInputs.cache
+C:\Users\E.K.S\Documents\GitHub\MouseAndKeyboardClicker\Sources\1.0.1\MouseAndKeyboardClicker\obj\Release\net47\MouseAndKeyboardClicker.csproj.CopyComplete
+C:\Users\E.K.S\Documents\GitHub\MouseAndKeyboardClicker\Sources\1.0.1\MouseAndKeyboardClicker\obj\Release\net47\MouseAndKeyboardClicker.exe
+C:\Users\E.K.S\Documents\GitHub\MouseAndKeyboardClicker\Sources\1.0.1\MouseAndKeyboardClicker\obj\Release\net47\MouseAndKeyboardClicker.pdb

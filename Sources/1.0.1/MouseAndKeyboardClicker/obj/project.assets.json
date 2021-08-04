@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\E.K.S\\RiderProjects\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker.csproj",
+      "projectUniqueName": "C:\\Users\\E.K.S\\Documents\\GitHub\\MouseAndKeyboardClicker\\Sources\\1.0.1\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker.csproj",
       "projectName": "MouseAndKeyboardClicker",
-      "projectPath": "C:\\Users\\E.K.S\\RiderProjects\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker.csproj",
+      "projectPath": "C:\\Users\\E.K.S\\Documents\\GitHub\\MouseAndKeyboardClicker\\Sources\\1.0.1\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker.csproj",
       "packagesPath": "C:\\Users\\E.K.S\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\E.K.S\\RiderProjects\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker\\obj\\",
+      "outputPath": "C:\\Users\\E.K.S\\Documents\\GitHub\\MouseAndKeyboardClicker\\Sources\\1.0.1\\MouseAndKeyboardClicker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\E.K.S\\AppData\\Roaming\\NuGet\\NuGet.Config"
