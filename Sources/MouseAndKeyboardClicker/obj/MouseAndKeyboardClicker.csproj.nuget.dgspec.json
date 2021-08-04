@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\E.K.S\\RiderProjects\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\E.K.S\\RiderProjects\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\E.K.S\\RiderProjects\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker.csproj",
+        "projectName": "MouseAndKeyboardClicker",
+        "projectPath": "C:\\Users\\E.K.S\\RiderProjects\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker.csproj",
+        "packagesPath": "C:\\Users\\E.K.S\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\E.K.S\\RiderProjects\\MouseAndKeyboardClicker\\MouseAndKeyboardClicker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\E.K.S\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net47"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net47": {
+            "targetAlias": "net47",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net47": {
+          "targetAlias": "net47",
+          "dependencies": {
+            "InputSimulator": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

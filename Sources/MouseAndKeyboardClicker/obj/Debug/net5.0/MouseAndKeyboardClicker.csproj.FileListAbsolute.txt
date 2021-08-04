@@ -1,0 +1,16 @@
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Debug\net5.0\MouseAndKeyboardClicker.exe
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Debug\net5.0\MouseAndKeyboardClicker.deps.json
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Debug\net5.0\MouseAndKeyboardClicker.runtimeconfig.json
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Debug\net5.0\MouseAndKeyboardClicker.runtimeconfig.dev.json
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Debug\net5.0\MouseAndKeyboardClicker.dll
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Debug\net5.0\ref\MouseAndKeyboardClicker.dll
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\bin\Debug\net5.0\MouseAndKeyboardClicker.pdb
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Debug\net5.0\MouseAndKeyboardClicker.csproj.AssemblyReference.cache
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Debug\net5.0\MouseAndKeyboardClicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Debug\net5.0\MouseAndKeyboardClicker.AssemblyInfoInputs.cache
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Debug\net5.0\MouseAndKeyboardClicker.AssemblyInfo.cs
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Debug\net5.0\MouseAndKeyboardClicker.csproj.CoreCompileInputs.cache
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Debug\net5.0\MouseAndKeyboardClicker.dll
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Debug\net5.0\ref\MouseAndKeyboardClicker.dll
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Debug\net5.0\MouseAndKeyboardClicker.pdb
+C:\Users\E.K.S\RiderProjects\MouseAndKeyboardClicker\MouseAndKeyboardClicker\obj\Debug\net5.0\MouseAndKeyboardClicker.genruntimeconfig.cache
